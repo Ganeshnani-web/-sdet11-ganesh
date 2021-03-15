@@ -6,13 +6,13 @@ public class Createcontact
 {
 
 	@Test
-	public void createcontact()
+	public void createcontact(String name , String num)
 	{
 		System.out.println("create contact");
 	}
 	
 	@Test
-	public void modifycontact()
+	public void modifycontact(String cont)
 	{
 		System.out.println("modify contact");
 	}
